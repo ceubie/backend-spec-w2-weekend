@@ -1,5 +1,5 @@
 
 class DevelopmentConfig:
-    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:BAC146@localhost/tacos'
+    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:@localhost/API_DESIGN_PATTERNS_HW'
     CACHE_TYPE = "SimpleCache"
     DEBUG = True
